@@ -1,4 +1,4 @@
-# InternGrow ML Track — Task 4: Clinical Disease Diagnostics Engine
+# InternGrow ML Track - Task 4: Clinical Disease Diagnostics Engine
 
 Predicts tumor malignancy risk from biopsy measurements using supervised
 classification models, with an interactive Streamlit dashboard for
